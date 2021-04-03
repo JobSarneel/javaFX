@@ -1,0 +1,12 @@
+Edv^gmF#M_Pg}etA7arWkp}%
+
+java -cp .;c:\java\eclipse\workspace\0503_commandline_parameters\classes\hoofdstuk5 TestComPar dit is een test
+
+java -cp .;c:\java\eclipse\workspace\0503_commandline_parameters\classes hoofdstuk5.TestComPar dit is een test
+
+private int width;
+private int height;
+public static final int ANGLES = 4;
+private static int count = 0;
+
+java -cp .;c:\java\eclipse\workspace\0510_raadspel\classes hoofdstuk5.GuessingGame 3
