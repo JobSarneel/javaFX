@@ -16,6 +16,8 @@ import javafx.scene.control.TextField;
 
 public class Main extends Application {
 	
+	// small change, just to test GIT
+	
 	// not sure this is the right approach, but at least the label is visible for
 	// the compute() method in this manner...
 	Label label = new Label("");
