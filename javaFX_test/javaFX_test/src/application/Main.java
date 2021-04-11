@@ -18,7 +18,7 @@ public class Main extends Application {
 	
 	// small change, just to test GIT
 	// and another one
-	// just to make sure...BOOH!
+	// just to make sure...BOOH! bah
 	
 	// not sure this is the right approach, but at least the label is visible for
 	// the compute() method in this manner...
